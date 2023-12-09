@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Irem</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h3 align="center">A passionate frontend developer from Turkey || Self-learner </h3>
 <img align= "right" alt="CodingGif" width="400" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
 
 - 🔭 I’m currently working on [WEB3 Blockchain](web3)
