@@ -2,9 +2,7 @@
 <h3 align="center">A passionate frontend developer from Turkey || Self-learner </h3>
 <img align= "right" alt="CodingGif" width="400" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
 
-- 🔭 I’m currently working on [WEB3 Blockchain](web3)
-
-- 🌱 I’m currently learning **Introduction to Blockchain Technologies**
+- 🔭 I’m currently working on **Front-end projects** and learning **Introduction to Blockchain Technologies**
 
 - 💬 Ask me about **JavaScript**
 
