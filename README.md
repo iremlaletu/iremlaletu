@@ -24,13 +24,13 @@
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white"/>
  </a> 
  
- <img align="right" alt="CodingGif" width="400" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
+ <img alt="CodingGif" width="400" height="500" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
  
 <br/>
 
 <p>
 
- 🔭 &emsp; I’m currently working on Front-end projects and learning Blockchain Technologiess<br/><br/>
+ 🔭 &emsp; I’m currently working on Front-end projects and learning Blockchain Technologies<br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: iremlaletu@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/iremlaletu/iremlaletu/issues)
@@ -42,7 +42,9 @@
 
 <p text align ="left">
 <a href="https://stackoverflow.com/users/22944904" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22944904" height="30" width="40" /></a>
+<br/>
 <a href="https://www.hackerrank.com/profile/iremlaletu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/iremlaletu" height="30" width="40" /></a>
+<br/>
 <a href="https://leetcode.com/iremlaletu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/iremlaletu/" height="30" width="40" /></a>
 </p>
 
