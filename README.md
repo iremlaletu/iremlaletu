@@ -5,7 +5,6 @@
   <h3 align="center">Frontend Developer from Turkey | Exploring Full-Stack | Self-Learner</h3>
 </h3>
 
-
 <div align="center">
  <a href="https://iremlaletudev.vercel.app/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white"/>
@@ -25,8 +24,6 @@
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me: iremlaletu@gmail.com<br/><br/>
 </p>
-
-<br/>
 
 <h3> Use to Code</h3>
 
