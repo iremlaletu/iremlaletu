@@ -53,7 +53,6 @@
 
 <br/>
 
-
-<img alt="Irem's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=iremlaletu&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+<img alt="Irem's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=iremlaletu&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px"/>
 <img alt="Irem's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=iremlaletu&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=iremlaletu&theme=radical&border=7F3FBF&background=0D1117" alt="irem's GitHub streak"/>
