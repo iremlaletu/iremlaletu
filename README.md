@@ -1,11 +1,9 @@
-<br />
 
-<h3 align="center">
-  <samp>Hi, 👋 I'm <b>İrem</b> </samp>
-  <h3 align="center">Frontend Developer from Turkey | Exploring Full-Stack | Self-Learner</h3>
-</h3>
 
-<div align="center">
+<h1>Hi, I'm <b>İrem</b> </h1>
+<h3>Frontend Developer from Turkey | Exploring Full-Stack | Self-Learner</h3>
+
+<div>
  <a href="https://iremlaletudev.vercel.app/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white"/>
  </a>
@@ -19,7 +17,7 @@
 
 <br/>
 
-<p align="start">
+<p>
  🔭 &emsp; I’m currently working on Front-end projects and transitioning into Full-Stack Development <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me: iremlaletu@gmail.com<br/><br/>
@@ -42,7 +40,7 @@
 
 <br/>
 
-<div text align ="center">
+<div>
 <a href="https://stackoverflow.com/users/22944904" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22944904" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/iremlaletu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/iremlaletu" height="30" width="40" /></a>
 <a href="https://leetcode.com/iremlaletu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/iremlaletu/" height="30" width="40" /></a>
@@ -50,6 +48,4 @@
 
 <br/>
 
-<img alt="Irem's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=iremlaletu&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px"/>
 <img alt="Irem's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=iremlaletu&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iremlaletu&theme=radical&border=7F3FBF&background=0D1117" alt="irem's GitHub streak"/>
