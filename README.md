@@ -1,20 +1,34 @@
+<!-- Greeting -->
+<h1 align="center">
+	Hi, I'm <b>İrem</b>
+</h1>
 
-<h2>Hi, I'm <b>İrem</b> </h2>
+<p align="center">
+	Full Stack Developer | .NET | Node.js | React | Next.js
+</p>
 
-<h3> Full Stack Developer | .NET | Node.js | React | Next.js </h3> 
+<p align="center">
+  Passionate about building clean, modern and functional applications.  
+</p>
 
-<div>
-<a href="https://iremlaletudev.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/></a>
-<a href="https://www.linkedin.com/in/iremlaletu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://twitter.com/iremlaletu" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter / X"/></a>
-<a href="mailto:iremlaletu@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<p align="center">
+  Always learning, creating, improving. ✨
+</p>
+
+<div align="center">
+	<p> 🌸 Visit <a href="https://iremlaletudev.verce.app/" target="_blank"> My Portfolio Website </a> for clean sections, projects, skills, experience — all in one place. </p>
 </div>
 
-<br/>
+<div align="center">
+	<a href="https://www.linkedin.com/in/iremlaletu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://twitter.com/iremlaletu" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter / X"/></a>
+	<a href="mailto:iremlaletu@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+</div>
 
-<h4>Use to Code</h4>
 
-<div>
+---
+<h3 align="center">Technology Stack</h3> 
+<p align="center">
 	<img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/>
 	<img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/>
 	<img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png" alt="Bootstrap" title="Bootstrap"/>
@@ -34,19 +48,10 @@
 	<img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" alt="mongoDB" title="mongoDB"/>
 	<img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/>
 	<img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sqlite.png" alt="SQLite" title="SQLite"/>
- 	<img width="40" src="https://skillicons.dev/icons?i=prisma"/>
-	<img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/>
-	<img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/>
+	<img width="40" src="https://skillicons.dev/icons?i=prisma"/> <img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/>		<img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/>
+</p>
+
+
+<div align="center">
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=iremlaletu&langs_count=8&layout=compact&theme=react&border_color=F57CBA&bg_color=0D1117&title_color=F57CBA&icon_color=F8D866" height="180px"/>
 </div>
-
-<br/>
-
-<div>
-<a href="https://stackoverflow.com/users/22944904" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22944904" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/iremlaletu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/iremlaletu" height="30" width="40" /></a>
-<a href="https://leetcode.com/iremlaletu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/iremlaletu/" height="30" width="40" /></a>
-</div>
-
-<br/>
-
-<img alt="Irem's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=iremlaletu&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px"/>
