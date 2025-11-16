@@ -1,8 +1,7 @@
 
 <h2>Hi, I'm <b>İrem</b> </h2>
 
-<h3>Frontend Developer from Turkey | Exploring Full-Stack | Self-Learner</h3> 
- <p> 🔭 &emsp; I’m currently working on Front-end projects and transitioning into Full-Stack Development</p>
+<h3> Full Stack Developer | .NET | Node.js | React | Next.js </h3> 
 
 <div>
 <a href="https://iremlaletudev.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/></a>
