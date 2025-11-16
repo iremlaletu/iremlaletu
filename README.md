@@ -16,7 +16,7 @@
 </p>
 
 <div align="center">
-	<p> 🌸 Visit <a href="https://iremlaletudev.verce.app/" target="_blank"> My Portfolio Website </a> for clean sections, projects, skills, experience — all in one place. </p>
+	<p> Visit <a href="https://iremlaletudev.verce.app/" target="_blank"> My Portfolio Website </a> for clean sections, projects, skills, experience — all in one place. </p>
 </div>
 
 <div align="center">
